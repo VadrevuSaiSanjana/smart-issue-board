@@ -1,0 +1,6 @@
+title,description,priority,assigned_to,created_by
+Server login issue,Users unable to login during night shift,High,support@company.com,admin@company.com
+Login failure at night,Authentication errors after midnight,Medium,support@company.com,admin@company.com
+Database connection error,Application cannot connect to database server,High,dbteam@company.com,ops@company.com
+Slow application response,Application performance degrades during peak hours,Low,support@company.com,ops@company.com
+Password reset issue,Users unable to reset password through portal,Medium,support@company.com,admin@company.com
